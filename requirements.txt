@@ -1,0 +1,6 @@
+numpy
+pandas
+grad-cam
+scikit-learn
+torch
+torchvision
